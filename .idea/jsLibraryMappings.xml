@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{ExtJS GPL-4.2, Knockout-2.2.1, Modernizr-2.6.2, MooTools-1.4.5, jQuery-2.0.0}" />
+    <excludedPredefinedLibrary name="HTML" />
+  </component>
+</project>
+
