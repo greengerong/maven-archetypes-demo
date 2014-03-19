@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archetype-descriptor name="app-server">
+<archetype-descriptor name="component">
     <fileSets>
         <fileSet filtered="true" encoding="UTF-8">
-            <directory>src/main/java</directory>
+            <directory>service/</directory>
             <includes>
                 <include>**/*.**</include>
             </includes>
         </fileSet>
         <fileSet filtered="true" encoding="UTF-8">
-            <directory>src/test/java</directory>
+            <directory>ui/</directory>
             <includes>
                 <include>**/*.**</include>
             </includes>
