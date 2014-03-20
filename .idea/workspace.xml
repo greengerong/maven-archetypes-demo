@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24cdea14-a6f4-4e9d-a730-2875ce428783" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/ui/src/main/webapp/component/__artifactId__/__artifactId__.js" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/ui/src/main/webapp/component/__artifactId__/__artifactId__.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype-metadata.xml" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype-metadata.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="component.iws" />
@@ -809,7 +807,7 @@
       <workItem from="1395048080188" duration="4974000" />
       <workItem from="1395055134360" duration="1220000" />
       <workItem from="1395223418939" duration="4336000" />
-      <workItem from="1395311449663" duration="2260000" />
+      <workItem from="1395311449663" duration="2284000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit&#10;">
       <created>1394621331665</created>
@@ -827,11 +825,15 @@
       <created>1395227538753</created>
       <updated>1395227538753</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="demo for chage file name to artifactId&#10;">
+      <created>1395314113641</created>
+      <updated>1395314113641</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18737000" />
+    <option name="totallyTimeSpent" value="18761000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1279" height="774" extended-state="6" />

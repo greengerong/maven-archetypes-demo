@@ -4,18 +4,23 @@
            http://maven.apache.org/xsd/archetype-1.0.0.xsd">
     <id>quickstart</id>
     <sources>
-        <source>src/main/java/App.java</source>
+        <source>service/src/main/java/**/*.*</source>
+        <source>ui/src/main/java/**/*.*</source>
     </sources>
     <testSources>
-        <source>src/test/java/AppTest.java</source>
+        <source>service/src/test/java/**/*.*</source>
+        <source>ui/src/test/java/**/*.*</source>
     </testSources>
+    <resources>
+        <resource>service/src/main/resources/**/*.*</resource>
+        <resource>ui/src/main/resources/**/*.*</resource>
+    </resources>
 
-    <!--<fileSets>-->
-    <!--<fileSet filtered="true" packaged="true">-->
-    <!--<directory>src/main/java</directory>-->
-    <!--</fileSet>-->
-    <!--<fileSet filtered="true" packaged="true">-->
-    <!--<directory>src/test/java</directory>-->
-    <!--</fileSet>-->
-    <!--</fileSets>-->
+    <testResources>
+        <resource>service/src/test/resources/**/*.*</resource>
+        <resource>ui/src/test/resources/**/*.*</resource>
+    </testResources>
+    <siteResources>
+        <resource>ui/src/main/webapp/**/*.*</resource>
+    </siteResources>
 </archetype>
