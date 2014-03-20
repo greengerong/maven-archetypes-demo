@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24cdea14-a6f4-4e9d-a730-2875ce428783" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/ui/src/main/webapp/component/__artifactId__/__artifactId__.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/ui/src/main/webapp/component/__artifactId__/__artifactId__.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/ui/src/main/webapp/component/less/__artifactId__.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/ui/src/main/webapp/demo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/ui/src/test/config/e2e.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/service/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/ui/pom.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/__artifactId__/1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/ComponentTest.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/Component.java" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/service/src/test/java/com/github/greengerong/__artifactId__Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/__artifactId__.java" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/service/src/main/java/com/github/greengerong/__artifactId__.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/ui/src/main/webapp/component/__artifactId__/__artifactId__.js" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/ui/src/main/webapp/component/__artifactId__/__artifactId__.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype-metadata.xml" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype-metadata.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="component.iws" />
@@ -80,21 +68,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="archetype.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="36" selection-start="987" selection-end="987" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-              <folding>
-                <marker date="1395224400000" expanded="true" signature="949:1025" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="__artifactId__.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/service/src/main/java/com/github/greengerong/__artifactId__.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="41" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+            <state line="7" column="41" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="240">
               <folding />
             </state>
           </provider>
@@ -103,7 +80,16 @@
       <file leaf-file-name="archetype-metadata.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype-metadata.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="31" selection-start="536" selection-end="536" vertical-scroll-proportion="0.591133" vertical-offset="0" max-vertical-offset="406">
+            <state line="4" column="40" selection-start="191" selection-end="191" vertical-scroll-proportion="0.14778325" vertical-offset="0" max-vertical-offset="406">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="39" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
               <folding />
             </state>
           </provider>
@@ -112,7 +98,7 @@
       <file leaf-file-name="__artifactId__Test.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/service/src/test/java/com/github/greengerong/__artifactId__Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+            <state line="2" column="0" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="225">
               <folding>
                 <marker date="1395224942000" expanded="true" signature="115:167" placeholder="{...}" />
               </folding>
@@ -123,7 +109,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/service/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="44" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+            <state line="15" column="44" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="750">
               <folding />
             </state>
           </provider>
@@ -132,11 +118,8 @@
       <file leaf-file-name="__artifactId__.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/ui/src/main/webapp/component/__artifactId__/__artifactId__.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="30" selection-start="16" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
-              <folding>
-                <marker date="1395226831000" expanded="true" signature="88:110" placeholder="[...]" />
-                <marker date="1395226831000" expanded="true" signature="101:109" placeholder="{...}" />
-              </folding>
+            <state line="1" column="28" selection-start="74" selection-end="87" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -144,7 +127,7 @@
       <file leaf-file-name="__artifactId__.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/ui/src/main/webapp/component/less/__artifactId__.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="2" selection-start="17" selection-end="17" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="120">
+            <state line="1" column="2" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="120">
               <folding />
             </state>
           </provider>
@@ -171,7 +154,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="30" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+            <state line="15" column="30" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="390">
               <folding>
                 <marker date="1395225423000" expanded="true" signature="457:533" placeholder="..." />
               </folding>
@@ -199,7 +182,6 @@
         <option value="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/_rootArtifactId_.html" />
         <option value="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/__artifactId__/1.html" />
         <option value="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/Component.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype-metadata.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/archetype-resources/service/src/main/java/com/github/greengerong/__artifactId__.java" />
         <option value="$PROJECT_DIR$/src/main/resources/archetype-resources/service/src/test/java/com/github/greengerong/__artifactId__Test.java" />
@@ -208,10 +190,11 @@
         <option value="$PROJECT_DIR$/src/main/resources/archetype-resources/ui/src/main/webapp/component/less/__artifactId__.less" />
         <option value="$PROJECT_DIR$/src/main/resources/archetype-resources/ui/src/main/webapp/demo.js" />
         <option value="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/archetype-resources/service/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/archetype-resources/ui/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/archetype-resources/ui/src/main/webapp/component/__artifactId__/__artifactId__.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype-metadata.xml" />
       </list>
     </option>
   </component>
@@ -248,7 +231,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -387,14 +369,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -481,10 +455,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="component" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="less" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -538,146 +508,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="component" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="component" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="archetype-resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="component" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="component" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="archetype-resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="github" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="greengerong" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="component" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="component" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="archetype-resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="github" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="greengerong" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -975,7 +808,8 @@
       <workItem from="1395022810676" duration="2812000" />
       <workItem from="1395048080188" duration="4974000" />
       <workItem from="1395055134360" duration="1220000" />
-      <workItem from="1395223418939" duration="4031000" />
+      <workItem from="1395223418939" duration="4336000" />
+      <workItem from="1395311449663" duration="2260000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit&#10;">
       <created>1394621331665</created>
@@ -989,11 +823,15 @@
       <created>1395052572688</created>
       <updated>1395052572688</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="demo for chage file name to artifactId&#10;">
+      <created>1395227538753</created>
+      <updated>1395227538753</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16172000" />
+    <option name="totallyTimeSpent" value="18737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1279" height="774" extended-state="6" />
@@ -1012,6 +850,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991204" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991204" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1019,7 +858,6 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32983023" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991204" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1038,8 +876,8 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991204" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32983023" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -1066,11 +904,85 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/component.iml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+        <state line="23" column="36" selection-start="987" selection-end="987" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
+          <folding>
+            <marker date="1395224400000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/service/src/main/java/com/github/greengerong/__artifactId__.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="41" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="240">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype-metadata.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="84" selection-start="536" selection-end="536" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/service/src/test/java/com/github/greengerong/__artifactId__Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="225">
+          <folding>
+            <marker date="1395224942000" expanded="true" signature="115:167" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="44" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/ui/src/main/webapp/component/__artifactId__/__artifactId__.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="30" selection-start="16" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/ui/src/main/webapp/component/less/__artifactId__.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="2" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="120">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/ui/src/main/webapp/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="3" selection-start="3" selection-end="3" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/ui/src/test/config/e2e.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="30" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="390">
+          <folding>
+            <marker date="1395225423000" expanded="true" signature="457:533" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype-metadata.xml">
@@ -1082,16 +994,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/ui/src/main/webapp/component/__artifactId__/__artifactId__.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-          <folding />
-        </state>
+        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/ui/pom.xml">
@@ -1110,16 +1018,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/component.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/ui/src/main/webapp/component/__artifactId__/__artifactId__.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-          <folding />
-        </state>
+        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/ui/pom.xml">
@@ -1138,9 +1042,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/component.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/ui/pom.xml">
@@ -1159,9 +1061,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/component.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/ui/pom.xml">
@@ -1180,9 +1080,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/component.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/ui/pom.xml">
@@ -1201,9 +1099,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/component.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/ui/pom.xml">
@@ -1215,16 +1111,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/component.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="416">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="416" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="379">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="379" />
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -1246,13 +1138,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="4" selection-start="253" selection-end="253" vertical-scroll-proportion="0.11083744" vertical-offset="0" max-vertical-offset="406">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="44" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
@@ -1262,24 +1147,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/ui/src/main/webapp/component/__artifactId__/__artifactId__.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="4" selection-start="29" selection-end="29" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="135">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/ui/src/main/webapp/component/__artifactId__/__artifactId__.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="30" selection-start="16" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
-          <folding>
-            <marker date="1395226831000" expanded="true" signature="88:110" placeholder="[...]" />
-            <marker date="1395226831000" expanded="true" signature="101:109" placeholder="{...}" />
-          </folding>
-        </state>
+        <state line="2" column="4" selection-start="29" selection-end="29" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="135" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/ui/src/main/webapp/component/less/__artifactId__.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="2" selection-start="17" selection-end="17" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="120">
+        <state line="1" column="2" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="120">
           <folding />
         </state>
       </provider>
@@ -1318,14 +1191,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="36" selection-start="987" selection-end="987" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
           <folding>
-            <marker date="1395224400000" expanded="true" signature="949:1025" placeholder="..." />
+            <marker date="1395224400000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="39" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="407">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/ui/src/main/webapp/component/__artifactId__/__artifactId__.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="28" selection-start="74" selection-end="87" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype-metadata.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="31" selection-start="536" selection-end="536" vertical-scroll-proportion="0.591133" vertical-offset="0" max-vertical-offset="406">
+        <state line="4" column="40" selection-start="191" selection-end="191" vertical-scroll-proportion="0.14778325" vertical-offset="0" max-vertical-offset="406">
           <folding />
         </state>
       </provider>

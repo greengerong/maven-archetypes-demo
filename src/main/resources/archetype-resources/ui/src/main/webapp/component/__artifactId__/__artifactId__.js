@@ -1,4 +1,4 @@
 angular.module("${artifactId.replaceAll("-",".")}", [])
-    .directive("${artifactId}", [function () {
+    .directive("${directiveName}", [function () {
 
     }]);
